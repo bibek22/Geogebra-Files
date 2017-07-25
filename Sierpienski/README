@@ -1,5 +1,0 @@
-** Prints Sierpienski Triangle **
-1. Draw three points on space.
-2. Start from any of the three.
-3. Pick any one of three on random and move halfway towards that point and trace a dot.
-4. Repeat 3 ad infinitum!
